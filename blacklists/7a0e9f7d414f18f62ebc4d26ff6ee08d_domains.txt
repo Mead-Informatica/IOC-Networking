@@ -148,3 +148,9 @@ api.systemsync.info
 api.widetechno.info
 innlive.in
 drjagrutichavan.com
+account-security-googie.my-board.org
+account-security-googie.rf.gd
+account-settings-shsvchx.wuaze.com
+config-settings.kesug.com
+enmrgkf41bifd.x.pipedream.net
+nomercys.it.com
