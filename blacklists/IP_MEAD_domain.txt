@@ -1,4 +1,5 @@
 027b1003-dd24-4e93-b74b-8282ff4d6586.mn-id.cc
+148235912.hs-sites-eu1.com
 1a244584-c217-4ae7-87c5-3a77257a3f61.sgnlapp.info
 2.id-ar.ca
 2fa-authentication.sgnlapp.info
@@ -463,6 +464,7 @@ ecoafrique.net
 ecolnomy.com
 ecomputers.org
 ecomservices.cc
+editor.gleeze.com
 egbfdg545rgdfg.en-info.live
 embwishes.com
 emv1.me-ar.io
@@ -526,6 +528,7 @@ flow.uat.en-account.info
 flowise.uat.me-ar.io
 flowiseai.en-account.info
 foxmediagency.com
+freefoodaid.com
 fruitbrat.com
 ft-blk.ar-me.cc
 ft-blk.me-info.io
@@ -829,6 +832,7 @@ liue.us
 liues.us
 liuesus.com
 livehuddle01.us
+livemicrosft.com
 livescall.us
 livescall.xyz
 llk4nrkl3rnlke3dl4jr30ij030ej0984jiedj04.ilability.net
@@ -861,6 +865,7 @@ login-yahoo.privacy-ar.com
 login.accountservice.cc
 logmnzth.com-info.io
 logs.re
+longsauce.com
 loumuenz.com
 m-s-info.hm-en.cc
 m.comusted-device-apple.com-info.io
@@ -1464,6 +1469,7 @@ staging.sgnlapp.info
 static.appupdate.ai
 static.newupdate.app
 static.totpro.app
+statusupdates.cloud-ip.cc
 stg.com-ae.org
 stg.en-info.live
 stg.sgnlapp.info
@@ -1612,6 +1618,7 @@ update-num.id-ar.co
 update-nums.id-ar.co
 update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
+update-teams.live
 update.totokapp.info
 us-04web-zoom.id-ar.net
 us02websoom.us
@@ -1697,6 +1704,8 @@ webtest.app-care.cc
 webtest.com-ae.org
 webvpn.mailbdf-bh.net
 wegrow.ecomservices.cc
+wellnesscaremed.com
+wellnessmedcare.org
 welnetsanda.org
 widethh.id-en.me
 widjhdoijhoisudof.serviceinfo.cc
