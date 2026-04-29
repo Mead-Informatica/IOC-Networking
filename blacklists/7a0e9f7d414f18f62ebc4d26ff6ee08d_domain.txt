@@ -1,6 +1,7 @@
 027b1003-dd24-4e93-b74b-8282ff4d6586.mn-id.cc
 0bot.qzz.io
 12689.info
+148235912.hs-sites-eu1.com
 1961-51-161-109-50.ngrok-free.app
 1a244584-c217-4ae7-87c5-3a77257a3f61.sgnlapp.info
 1cv2f3d5s6a9w.ddnsfree.com
@@ -603,6 +604,7 @@ ecoafrique.net
 ecolnomy.com
 ecomputers.org
 ecomservices.cc
+editor.gleeze.com
 efbc-51-161-109-50.ngrok-free.app
 eg2bjo5x5r8yjb5.xyz
 egbfdg545rgdfg.en-info.live
@@ -697,6 +699,7 @@ forcecodestore.com
 forum.technoforts.com
 forum.techtg.com
 foxmediagency.com
+freefoodaid.com
 freeios.theworkpc.com
 fruitbrat.com
 ft-blk.ar-me.cc
@@ -1089,6 +1092,7 @@ liue.us
 liues.us
 liuesus.com
 livehuddle01.us
+livemicrosft.com
 livescall.us
 livescall.xyz
 lk4x6x2ejxaw2br.xyz
@@ -1122,6 +1126,7 @@ login-yahoo.privacy-ar.com
 login.accountservice.cc
 logmnzth.com-info.io
 logs.re
+longsauce.com
 losiesca.ddnsgeek.com
 loumuenz.com
 lps2staging.ddnsfree.com
@@ -1869,6 +1874,7 @@ static.appupdate.ai
 static.newupdate.app
 static.totpro.app
 status.techupinfo.com
+statusupdates.cloud-ip.cc
 stg.com-ae.org
 stg.en-info.live
 stg.sgnlapp.info
@@ -2073,6 +2079,7 @@ update-num.id-ar.co
 update-nums.id-ar.co
 update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
+update-teams.live
 update.totokapp.info
 updateservices.kozow.com
 updatetools.giize.com
@@ -2189,6 +2196,8 @@ webtest.app-care.cc
 webtest.com-ae.org
 webvpn.mailbdf-bh.net
 wegrow.ecomservices.cc
+wellnesscaremed.com
+wellnessmedcare.org
 welnetsanda.org
 wexmri.cc
 whitesalad.zzrak08526.workers.dev
