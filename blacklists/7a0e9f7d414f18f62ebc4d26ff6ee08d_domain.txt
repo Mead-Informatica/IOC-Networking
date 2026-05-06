@@ -243,6 +243,7 @@ assets.com-info.io
 assets.en-info.live
 atravelingwitch.com
 audit-kg.com
+audit.checkmarx.cx
 aurevian.cloud
 auth-app-le-com-user-auth-manage-service.mobilesite.co
 auth-manage.id-en.me
@@ -310,6 +311,7 @@ bmail.entity-me.online
 bobbush.org
 boemobww.ddnsfree.com
 bora-bora2025.com
+bore.pub
 bot.en-ir.org
 botim-app.pro
 botim.ai-ae.io
