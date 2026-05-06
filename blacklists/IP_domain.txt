@@ -187,6 +187,7 @@ asset.ar-id.co
 assets.com-info.io
 assets.en-info.live
 atravelingwitch.com
+audit.checkmarx.cx
 auth-app-le-com-user-auth-manage-service.mobilesite.co
 auth-manage.id-en.me
 auth-ms-manage.le-ar.me
@@ -231,6 +232,7 @@ blog.com-info.io
 bltki.en-id.cc
 bmail.entity-me.online
 bobbush.org
+bore.pub
 bot.en-ir.org
 botim-app.pro
 botim.ai-ae.io
