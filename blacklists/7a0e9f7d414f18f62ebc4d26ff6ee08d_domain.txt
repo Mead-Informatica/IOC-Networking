@@ -104,6 +104,7 @@ accountservice.cc
 ach-uz.com
 adenuncia.com
 adimagemarketing.com
+adm-pulse.com
 adm.mailbdf-bh.net
 admin.ar-id.co
 admin.com-ae.org
@@ -637,6 +638,7 @@ encrytpion-sgnl.ar-id.cc
 enfiaqkw.relay-ar.co
 enmrgkf41bifd.x.pipedream.net
 entity-me.online
+env-check.daemontools.cc
 escofiringbijou.com
 esf-kg.com
 espacebus.com
@@ -2086,6 +2088,7 @@ update.totokapp.info
 updateservices.kozow.com
 updatetools.giize.com
 upload.ee
+uploadfiler.com
 uploadnow.io
 uppdatefile.com
 us-04web-zoom.id-ar.net
