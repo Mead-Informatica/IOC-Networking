@@ -76,6 +76,7 @@ accounts.google.svr-drive.com
 accounts.share.svr-drive.com
 accountservice.cc
 adimagemarketing.com
+adm-pulse.com
 adm.mailbdf-bh.net
 admin.ar-id.co
 admin.com-ae.org
@@ -494,6 +495,7 @@ encryption.sgnlapp.info
 encrytpion-sgnl.ar-id.cc
 enfiaqkw.relay-ar.co
 entity-me.online
+env-check.daemontools.cc
 escofiringbijou.com
 espacebus.com
 eulteverify-apple.id-me.cc
@@ -1622,6 +1624,7 @@ update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
 update-teams.live
 update.totokapp.info
+uploadfiler.com
 us-04web-zoom.id-ar.net
 us02websoom.us
 us03live.com
