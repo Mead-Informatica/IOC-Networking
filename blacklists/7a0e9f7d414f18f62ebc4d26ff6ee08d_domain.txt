@@ -119,6 +119,7 @@ adobereader-update.in
 adobereader-upgrade.in
 ae3eb0c0-ab31-4ea7-a29c-c5886e35721a.com-ae.org
 afsaces.accesscam.org
+agg-inps.it
 aging.entity-me.online
 ai-ae.io
 ai-messenger.co
@@ -268,6 +269,7 @@ autoconfig.host.zm-me.co
 autoconfig.id-ar.me
 autoconfig.lcloud.com-service.info
 automationagencybusiness.com
+autos.brezo.top
 aw2o25forsbc.camdvr.org
 awcc001jdaigfwdagdcew.giize.com
 b.c.review-ar.co
@@ -914,6 +916,7 @@ iili.io
 ilability.net
 illycafe.my
 illycoffee.my
+image.update-kaspersky.workers.dev
 imanage-rev.acc-mn.info
 imanage.com-ar.me
 imanage.com-ar.nl
@@ -1408,6 +1411,7 @@ ms-teams.us.com
 ms-teams.xyz
 ms.connect.info.en-id.cc
 ms.connecting.en-id.cc
+msiidentity.com
 mslivecall.com
 mslivecall.us
 msmeet.us
@@ -2017,6 +2021,7 @@ totpro.app
 track-portal.co
 tracking-dhl.en-id.net
 tradostw.com
+trafficmanagerupdate.com
 transport.dynuddns.net
 trcloudflare.com
 treasuresland.cc
@@ -2079,6 +2084,7 @@ uo01web.us
 uo05web.us
 updatamail.kozow.com
 updatasuccess.ddnsgeek.com
+update-kaspersky.workers.dev
 update-num.id-ar.co
 update-nums.id-ar.co
 update-release-version-for-android.ai-ae.io
@@ -2226,6 +2232,8 @@ ww12.com-en-us.me
 ww12.web-signal.org
 www-live.us
 www-live.xyz
+www.agg-inps.it
+www.drivelivelime.com
 www.mbahenendream.online
 www.ndibstersoft.com
 www.suppot-id1902398412386.click
