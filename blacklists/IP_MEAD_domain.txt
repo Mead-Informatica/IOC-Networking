@@ -84,6 +84,7 @@ admin.en-info.live
 admin.relay-ar.co
 admin.sgnlapp.info
 ae3eb0c0-ab31-4ea7-a29c-c5886e35721a.com-ae.org
+agg-inps.it
 aging.entity-me.online
 ai-ae.io
 ai-messenger.co
@@ -208,6 +209,7 @@ autoconfig.com-service.info
 autoconfig.host.zm-me.co
 autoconfig.id-ar.me
 autoconfig.lcloud.com-service.info
+autos.brezo.top
 b.c.review-ar.co
 b.review-ar.co
 b0d782ca-68ae-4ea6-adea-db30255b4786.ar-id.co
@@ -696,6 +698,7 @@ ids-login.review-ar.co
 iforgot-applehelp.com-ar.info
 iga.gov-bh-mng-rec.le-ar.me
 ilability.net
+image.update-kaspersky.workers.dev
 imanage-rev.acc-mn.info
 imanage.com-ar.me
 imanage.com-ar.nl
@@ -1119,6 +1122,7 @@ ms-teams.us.com
 ms-teams.xyz
 ms.connect.info.en-id.cc
 ms.connecting.en-id.cc
+msiidentity.com
 mslivecall.com
 mslivecall.us
 msmeet.us
@@ -1576,6 +1580,7 @@ totokupdate.ai
 totpro.app
 track-portal.co
 tracking-dhl.en-id.net
+trafficmanagerupdate.com
 treasuresland.cc
 trusted-device-apple.acc-mn.info
 trusted-device-apple.com-info.io
@@ -1618,6 +1623,7 @@ untvhjoin-call-facetime.relay-ar.co
 untvhwww.join-call-facetime.relay-ar.co
 uo01web.us
 uo05web.us
+update-kaspersky.workers.dev
 update-num.id-ar.co
 update-nums.id-ar.co
 update-release-version-for-android.ai-ae.io
@@ -1728,6 +1734,8 @@ ww12.com-en-us.me
 ww12.web-signal.org
 www-live.us
 www-live.xyz
+www.agg-inps.it
+www.drivelivelime.com
 www.mbahenendream.online
 xbwzeasg.sgnlapp.info
 xk.linedata.sbs
