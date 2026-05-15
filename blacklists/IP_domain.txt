@@ -266,6 +266,7 @@ call.signal-account.org
 callshere.com
 carhirechicago.com
 cc-ar.co
+cdn.cloudfront-js.com
 cdshfis57945tjfkgdfgdf.fullrestores.re
 cert-ua.tech
 ch-th-re.en-id.cc
@@ -818,6 +819,7 @@ kswqfmry.ar-id.co
 lalnrctonpao.idate.me
 landings.en-info.live
 lang-ar.me
+lastpass-login-help.com
 latestversion.ai
 lcloud.com-ar.info
 lcloud.com-service.info
@@ -1427,6 +1429,7 @@ sm.verify-apple.com-info.io
 softhunts.com
 speedifynews.com
 spiralkey.co
+spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
 srv1.srv648.co-en.app
 srv648.co-en.app
 ssapple.com-info.io
