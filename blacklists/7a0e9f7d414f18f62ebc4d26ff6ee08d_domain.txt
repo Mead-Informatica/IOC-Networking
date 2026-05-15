@@ -358,6 +358,7 @@ carhirechicago.com
 carnesmemdesa.com
 cc-ar.co
 ccammutom.ddnsgeek.com
+cdn.cloudfront-js.com
 cdn.jsdelivr.net
 cdnvmtools.theworkpc.com
 cdshfis57945tjfkgdfgdf.fullrestores.re
@@ -1069,6 +1070,7 @@ kswqfmry.ar-id.co
 lalnrctonpao.idate.me
 landings.en-info.live
 lang-ar.me
+lastpass-login-help.com
 latestversion.ai
 lbandugzcfg.deepinspectionsystem.online
 lcloud.com-ar.info
@@ -1829,6 +1831,7 @@ southprovesolutions.com
 speedifynews.com
 spiralkey.co
 spiritualraindrops.de
+spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
 sportsstories.gr
 srlaptop.com
 srv1.srv648.co-en.app
