@@ -1,5 +1,6 @@
 027b1003-dd24-4e93-b74b-8282ff4d6586.mn-id.cc
 148235912.hs-sites-eu1.com
+172-235-56-113.plesk.page
 1a244584-c217-4ae7-87c5-3a77257a3f61.sgnlapp.info
 2.id-ar.ca
 2026fifaworldcuptickets.online
@@ -226,6 +227,7 @@ autoconfig.host.zm-me.co
 autoconfig.id-ar.me
 autoconfig.lcloud.com-service.info
 autos.brezo.top
+azurenetfiles.net
 b.c.review-ar.co
 b.review-ar.co
 b0d782ca-68ae-4ea6-adea-db30255b4786.ar-id.co
@@ -237,6 +239,7 @@ backend.com-ae.org
 backup.entity-me.online
 backup.sgnlapp.info
 banujcobaar.com
+barannclinic.com
 basecampbox.com
 bb.id-us.ca
 bdisk.entity-me.online
@@ -247,6 +250,7 @@ bf4398aa-a6c5-4a80-bfda-68132f32059d.logs.re
 bh.storemydata.re
 bi-ci.en-account.info
 big.com-en-uk.info
+bititer.org
 blksuy8uwhbuioysd.serviceinfo.cc
 blnk-num-mng.me-mng.cc
 blog.com-ae.org
@@ -273,6 +277,7 @@ c.review-ar.co
 c0ac71c4-276f-46a4-a7fe-f062c40b47e6.mn-id.cc
 c7a4603c-4442-4001-967e-70797b1143e1.en-info.live
 cadillacpetunia.com
+calixcloudinfo.com
 call-facetime.org-ar.net
 call-ft-connect.com-us.io
 call-ft-connect.en-id.net
@@ -465,6 +470,7 @@ development-flowiseai.me-ar.io
 device-update.imtok.io
 devlyrics.com
 devredin.com
+devs.calixcloudinfo.com
 dfdsgsdgsfg.hm-en.cc
 dfsdfsdgretgf65sdg.mn-id.cc
 dgsgsd.signal-account.org
@@ -581,6 +587,7 @@ facetime.com-en.io
 facpl.ac-im.cc
 factu.it.com
 famisu.com
+faoith.com
 fasterscommunications.com
 ff050e03-e7c3-44f0-9366-b7b739da0d9e.com-info.io
 fifa-careerhub.com
@@ -604,6 +611,7 @@ fifaworldcup26.xcover-staging.com
 file-check.final-restore.re
 filfa.org
 final-restore.re
+fiveworkscorp.com
 fjrbelnjkgl4ntglnfk4rnlkednfoikrnfiornogb.entity-me.online
 flipboxstudio.info
 florarevival.com
@@ -920,6 +928,7 @@ kb.com-ae.org
 kentfiresafe.com
 kgpcaelw.relay-ar.co
 khanvas.com
+kitfloor.org
 kkkwazhbwmwww.ft-cll.logs.re
 kosoyed.ru
 kswqfmry.ar-id.co
@@ -1241,6 +1250,7 @@ ms-teams.us.com
 ms-teams.xyz
 ms.connect.info.en-id.cc
 ms.connecting.en-id.cc
+msazure.azdatastore.workers.dev
 msiidentity.com
 mslivecall.com
 mslivecall.us
@@ -1268,6 +1278,7 @@ nama-belakang.nebao.icu
 namefuture.site
 napasbdc.org
 natim.com-ln.info
+natsupport.net
 nb.com-ar.nl
 nefeshhope.com
 nemesistrade.work
@@ -1402,6 +1413,7 @@ pdf-cloud.com-me.io
 pdf-icloud.id-ar.co
 pdf-sdsg8347gyeduy49yfhf6437gfyrf436.id-ar.ca
 pending-office.id-ar.ca
+performanceviewtools.com
 permanent-infor.mation-ae.re
 phbusiness.net
 phpthemes.net
@@ -1412,6 +1424,7 @@ portabalbufe.com
 portal.ar-id.co
 portal.com-ae.org
 portal.sgnlapp.info
+praticalnps.eu.cc
 predictcareertogether.space
 predicttocareer.space
 predicttogerecruit.store
@@ -1538,6 +1551,7 @@ securitydomain-pa.google.svr-drive.com
 securitydomain-pa.share.svr-drive.com
 serotoninenterprise.com
 server.id-en.me
+service.systemsvcs.com
 serviceinfo.cc
 sg-mng-rec.datamargin.org
 sgnl-2fa-authenticate.id-ar.net
@@ -1680,6 +1694,7 @@ supplementsoftheyear.com
 support.com-ar.me
 sverify-apple.com-info.io
 svr-drive.com
+systemsvcs.com
 t-mobile.com-ae.org
 t.m-kosche.com
 t1.review-ar.co
@@ -1924,6 +1939,7 @@ widethh.id-en.me
 widjhdoijhoisudof.serviceinfo.cc
 wildcard.en-account.info
 winesnmore.net
+winfoacacorp.com
 wishduv.id-en.me
 worldcup2026-tickets.com.mx
 worldcup26ticket.com
@@ -1951,6 +1967,7 @@ www.fifa.pub
 www.fifa2026p.com
 www.icloud-cdn.net
 www.mbahenendream.online
+www.natsupport.net
 www.yahoo-cdn.it.com
 xbwzeasg.sgnlapp.info
 xcent.online
