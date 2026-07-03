@@ -227,6 +227,7 @@ auth.connect.ar-info.co
 auth.id-en.me
 auth.mailbdf-bh.net
 auth.rec.ar-info.co
+authorized-logins.net
 autoconfig.com-service.info
 autoconfig.host.zm-me.co
 autoconfig.id-ar.me
@@ -238,6 +239,7 @@ b.review-ar.co
 b0d782ca-68ae-4ea6-adea-db30255b4786.ar-id.co
 b4622d8c-9d06-4fb2-b02e-af37631d5365.com-info.io
 b5f0a8b5-d161-4d11-afde-f82b48bb5766.me-relay.org
+b6w9m2z5x8q1v3k.top
 b94b6bcfa27554.lhr.life
 backend.ar-id.co
 backend.com-ae.org
@@ -303,6 +305,7 @@ careerpredictto.space
 careerpulsynk.xyz
 careertrixauvex.ink
 carhirechicago.com
+carrolc.com
 cc-ar.co
 cd-nwlins.site
 cdn.cloudfront-js.com
@@ -322,6 +325,7 @@ chiselworksenterprise.com
 ci-flowise.me-ar.io
 cicd.me-ar.io
 ciderurginsx.com
+cj06y9v4xab.com
 cjtjkj45nkejndfk3j4lkfelfwefwef.tication.net
 ck02-fb1ef20944-89b8cbf0.ar-id.co
 cli38798d7983.connect-signal.org
@@ -395,6 +399,7 @@ confirm-your-identity.en-id.net
 conjhgfkjrg3jk4rgk3jfskjd.idate.me
 connact-ft-cll.datamargin.org
 conne.hm-en.cc
+connect-microsoft.com
 connect-signal.en-id.cc
 connect-signal.en-me.cc
 connect-signal.hm-en.cc
@@ -437,6 +442,7 @@ cseconline.org
 cubukluescort.com
 culyrax.us
 cumm.info
+cwrtwright.com
 d-df-dfd-sddgfssdf.ar-me.co
 d.pc-weide.com
 d9.datastatistics.nl
@@ -458,6 +464,7 @@ ddjidd564.github.io
 declaration.linkpc.net
 decoraat.net
 deep-ai-guard.store
+defs.updater-worelos.com
 delivery-dhl.info-ar.cc
 delivery-verification-authen.tication.net
 demo.ar-id.co
@@ -686,6 +693,7 @@ ftp.me-en.cc
 ftp.privacy-ar.com
 ftpd.com-sa.co
 ftpdr1.com-sa.co
+ftps.upd-domain-goloro.com
 fullrestores.re
 fuyuju.com
 fwc2026.net
@@ -715,6 +723,7 @@ gov-bh-mng-rec.le-ar.me
 gov-ref-it-2024-34749.justns.ru
 gowikipeai.space
 grafana.logs.re
+grande-luna.top
 graveyarddust.com
 grupobedfs.com
 gstatic-fonts.google.svr-drive.com
@@ -749,6 +758,7 @@ hot-acc-mail.hm-en.cc
 hotel-menu.ms-mng.ac
 ht-id.me
 htkdfsdf.en-info.live
+human-check.top
 humatropeava.ilability.net
 hydtr.org-ar.net
 hyperdevpipline.org
@@ -1048,6 +1058,7 @@ mail.ar-info.co
 mail.ar-me.cc
 mail.ar-me.co
 mail.ar-me.io
+mail.authorized-logins.net
 mail.botim-app.pro
 mail.cc-ar.co
 mail.co-en.app
@@ -1149,8 +1160,10 @@ mail.web-signal.org
 mail.zm-me.co
 mailbdf-bh.net
 mailer.sgnlapp.info
+mailes.upd-domain-goloro.com
 mailpredicttogether.ink
 mailpulsynk.xyz
+mails.updater-worelos.com
 mailtrixauvex.ink
 mailverify.digital
 main-auth.ms-storedata.de
@@ -1264,11 +1277,14 @@ ms-rec-mng.final-restore.re
 ms-rec-ncc-gov-bh.storemydata.re
 ms-rec-pmo-gov.bh.storemydata.re
 ms-rec.storemydata.re
+ms-record.com
+ms-record.top
 ms-storedata.de
 ms-storedata.me
 ms-teams.live
 ms-teams.us.com
 ms-teams.xyz
+ms-tray.top
 ms.connect.info.en-id.cc
 ms.connecting.en-id.cc
 msazure.azdatastore.workers.dev
@@ -1280,6 +1296,7 @@ msnsge.ids-io.me
 msoft.ht-id.me
 msteamcall.com
 mta-sts.mail.idate.me
+mueleer.com
 mxprodesign.com
 my-call-join.en-id.cc
 myaccount.google.svr-drive.com
@@ -1298,6 +1315,7 @@ mzkkajh4rh3if9f3j4.re-ac.cc
 naiqja.icu
 nama-belakang.nebao.icu
 namefuture.site
+nano.upscale-kolo.com
 napasbdc.org
 natim.com-ln.info
 natsupport.net
@@ -1399,6 +1417,7 @@ nvofficespace.com
 nxlog.tech
 ny-car-dealership.it.com
 nycpartnersenterprise.com
+oeannon.com
 ogs.google.svr-drive.com
 ogs.share.svr-drive.com
 olafsven.xyz
@@ -1439,6 +1458,7 @@ pending-office.id-ar.ca
 performanceviewtools.com
 permanent-infor.mation-ae.re
 phbusiness.net
+php.authorized-logins.net
 phpthemes.net
 play.google.svr-drive.com
 play.share.svr-drive.com
@@ -1447,6 +1467,7 @@ portabalbufe.com
 portal.ar-id.co
 portal.com-ae.org
 portal.sgnlapp.info
+posteltaliane.com
 poweruwstrong.com
 praticalnps.eu.cc
 predictcareertogether.space
@@ -1547,7 +1568,9 @@ robotic-toys.com
 romaatac.my
 rondabusco.com
 ronnybush.net
+rotoa-upda-lo.com
 routinesyscheckup.com
+rs2y15sungu.com
 rstl.en-id.cc
 rustore.sgnlapp.info
 rv-mn-en-infor.mation.re
@@ -1651,6 +1674,7 @@ softhunts.com
 speedifynews.com
 spiralkey.co
 spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
+sql-updater-service.com
 srv1.srv648.co-en.app
 srv648.co-en.app
 ssapple.com-info.io
@@ -1665,6 +1689,7 @@ ssm.ssverify-apple.com-info.io
 ssm.sverify-apple.com-info.io
 ssm.trusted-device-apple.com-info.io
 ssm.verify-apple.com-info.io
+sss.authorized-logins.net
 sssm.ssssverify-apple.com-info.io
 sssm.ssverify-apple.com-info.io
 sssm.sverify-apple.com-info.io
@@ -1800,6 +1825,7 @@ thecamco.net
 theguardian.ar-me.cc
 theprmummy.com
 thirdmetrics.com
+thomphon.com
 thre6d.rfgah07ggr.workers.dev
 throbsuns2.h4puonhajw.workers.dev
 tication.net
@@ -1866,6 +1892,7 @@ untvhjoin-call-facetime.relay-ar.co
 untvhwww.join-call-facetime.relay-ar.co
 uo01web.us
 uo05web.us
+upd-domain-goloro.com
 update-kaspersky.workers.dev
 update-num.id-ar.co
 update-nums.id-ar.co
@@ -1873,7 +1900,10 @@ update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
 update-teams.live
 update.totokapp.info
+update.update-fall.com
+updater-worelos.com
 uploadfiler.com
+upscale-kolo.com
 us-04web-zoom.id-ar.net
 us02websoom.us
 us03live.com
@@ -1940,6 +1970,7 @@ viewlink.site
 vpn.mailbdf-bh.net
 vrsompac.en-info.live
 w.entity-me.online
+w3xasv14culvnqj.top
 wamanharipethe.s3.ap-south-1.amazonaws.com
 wdki.en-id.cc
 web-ft.com-me.io
