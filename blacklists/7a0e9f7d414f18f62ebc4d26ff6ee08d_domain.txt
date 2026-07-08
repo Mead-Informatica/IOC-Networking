@@ -197,7 +197,6 @@ api.sgnlapp.info
 api.softmatictech.com
 api.systemsync.info
 api.technology-system.com
-api.telegram.org
 api.widetechno.info
 api.ydtyuehugufgeygushguysgudyhg.en-account.info
 apis.google.svr-drive.com
