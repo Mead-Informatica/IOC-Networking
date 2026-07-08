@@ -149,7 +149,6 @@ api.entity-me.online
 api.me-relay.org
 api.relay-ar.co
 api.sgnlapp.info
-api.telegram.org
 api.ydtyuehugufgeygushguysgudyhg.en-account.info
 apis.google.svr-drive.com
 apis.share.svr-drive.com
