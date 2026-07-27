@@ -212,6 +212,7 @@ api.en-info.live
 api.en-uk.cc
 api.entity-me.online
 api.healthylifefeed.com
+api.keensie.com
 api.me-relay.org
 api.medicinefinders.com
 api.relay-ar.co
@@ -520,6 +521,7 @@ cloude-manage.ids-io.me
 cloudflarefirewall.vercel.app
 cloudflareinsights.vercel.app
 cloudflaresecurity.vercel.app
+cloudlanecdn.com
 clubline.cc
 clubprincess.click
 clubs-k.com
@@ -1209,13 +1211,18 @@ infuture.pro
 ingov.myartsonline.com
 inmsed.com
 innlive.in
+inps-im.com
 inpsdati.it
 inpsmy.com
 inpsmya.com
 inpsmyi.com
 inpsmyl.com
+inpso.cfd
+inpso.sbs
+inpsp.cfd
 inpst.cfd
 inpst.sbs
+inpsz.cfd
 inspectguarantee.org
 intrawld.com
 invoice.msopsa.top
@@ -2688,6 +2695,7 @@ usweb0b.us
 usweb0l.us
 uswebob.com
 uswebob.us
+uu.goldeyeuu.io
 ux01web.us
 ux02web.us
 ux03web.us
@@ -2807,6 +2815,7 @@ winfoss1.kozow.com
 winupdate.ink
 winupdate.live
 wishduv.id-en.me
+wk.goldeyeuu.io
 wne-2025.com
 wolfwraps.com
 workshopcurrent.com
