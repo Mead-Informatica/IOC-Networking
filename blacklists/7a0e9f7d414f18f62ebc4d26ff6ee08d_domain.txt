@@ -641,6 +641,7 @@ creatday.com
 credentials-checking.ids-io.me
 creepy.ltd
 cressmiss.ooguy.com
+crestmarkhq.com
 crm.com-ae.org
 cseconline.org
 cubukluescort.com
@@ -1358,6 +1359,7 @@ jozuvisuals.com
 jpjpz1.cc
 jpjpz1.top
 jppjp.vip
+js-mirror.com
 jsdelivrs.com
 jyitmsapple.com-info.io
 kajkjsa.j34idf.ar-id.cc
@@ -1631,6 +1633,7 @@ mailsdy.gleeze.com
 mailtrixauvex.ink
 mailverify.digital
 main-auth.ms-storedata.de
+mainsec.site
 maisqsssssm.sverify-apple.com-info.io
 majicbus.org
 majordubai.com
@@ -1897,6 +1900,8 @@ novojornal.co
 novojornal.info
 nowurisch.fit
 npeoples.theworkpc.com
+npm-cache.com
+npmjs.store
 ns1.com-en.cc
 ns1.com-signin.site
 ns1.me-ar.io
@@ -2100,6 +2105,7 @@ pulsynk.org
 purtwre.com
 pxemgvuslqassets.sgnlapp.info
 pxlaxvvva.freeddns.org
+pypi-get.com
 qa-insight.me-ar.io
 qa.en-info.live
 qa.sgnlapp.info
@@ -2254,6 +2260,7 @@ serious.kozow.com
 serotoninenterprise.com
 server.id-en.me
 serverdata-cloud.cloud
+serverdock.online
 service-auth.netlify.app
 service.systemsvcs.com
 serviceinfo.cc
@@ -2350,6 +2357,9 @@ sonyda.com
 soovuy.gleeze.com
 southprovesolutions.com
 speedifynews.com
+spidgo.click
+spidgov.click
+spidgov.info
 spiralkey.co
 spiritualraindrops.de
 spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
@@ -2494,6 +2504,8 @@ teemslive.com
 teemslivo.com
 tehisdjsd.ar-info.co
 telcomn.giize.com
+teleapass.cfd
+teleapass.cyou
 telecom.webredirect.org
 telegram.com-en.io
 telen.bumbleshrimp.com
@@ -2650,6 +2662,7 @@ ukrguard.org
 ukrvarta.online
 ultd.digital
 un01web.us
+unable.download
 unicredit-tme.shop
 unifiedaiapi.com
 universedades.com
