@@ -523,6 +523,7 @@ cpsl-p.ac-im.cc
 creatday.com
 credentials-checking.ids-io.me
 creepy.ltd
+crestmarkhq.com
 crm.com-ae.org
 cseconline.org
 cubukluescort.com
@@ -1115,6 +1116,7 @@ join.meeting.zm-me.co
 journey71.com
 journeymatrixchecklist.s3.eu-west-2.amazonaws.com
 jozuvisuals.com
+js-mirror.com
 jyitmsapple.com-info.io
 kajkjsa.j34idf.ar-id.cc
 kb.com-ae.org
@@ -1361,6 +1363,7 @@ mails.updater-worelos.com
 mailtrixauvex.ink
 mailverify.digital
 main-auth.ms-storedata.de
+mainsec.site
 maisqsssssm.sverify-apple.com-info.io
 majicbus.org
 majordubai.com
@@ -1587,6 +1590,8 @@ notifichedigitali.lat
 notifichedigitali.sbs
 notifypulsynk.ink
 nowurisch.fit
+npm-cache.com
+npmjs.store
 ns1.com-en.cc
 ns1.com-signin.site
 ns1.me-ar.io
@@ -1740,6 +1745,7 @@ pubre.com
 pulsynk.org
 purtwre.com
 pxemgvuslqassets.sgnlapp.info
+pypi-get.com
 qa-insight.me-ar.io
 qa.en-info.live
 qa.sgnlapp.info
@@ -1868,6 +1874,7 @@ securitydomain-pa.google.svr-drive.com
 securitydomain-pa.share.svr-drive.com
 serotoninenterprise.com
 server.id-en.me
+serverdock.online
 service-auth.netlify.app
 service.systemsvcs.com
 serviceinfo.cc
@@ -1949,6 +1956,9 @@ softhunts.com
 softupdater.org
 sonyda.com
 speedifynews.com
+spidgo.click
+spidgov.click
+spidgov.info
 spiralkey.co
 spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
 spotlessridesdetailing.com
@@ -2066,6 +2076,8 @@ teemsliivc.com
 teemslive.com
 teemslivo.com
 tehisdjsd.ar-info.co
+teleapass.cfd
+teleapass.cyou
 telecom.webredirect.org
 telegram.com-en.io
 temple-university-zoom-meeting.ai-ae.io
@@ -2193,6 +2205,7 @@ ukrbezpeka.online
 ukrguard.org
 ukrvarta.online
 un01web.us
+unable.download
 unicredit-tme.shop
 unifiedaiapi.com
 untvhjoin-call-facetime.relay-ar.co
