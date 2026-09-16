@@ -440,6 +440,7 @@ bridge1.locat.sbs
 bridge1.tiktok-u.sbs
 briskinternet.com
 broadcase.id-en.me
+broker.hivemq.com
 browserling.com
 brt.phiamg.cc
 brussels-indo-pacific-forum.org
@@ -1306,6 +1307,12 @@ imanage.com-ar.nl
 imanage.en-ir.org
 imanage.logs.re
 imange.com-ar.nl
+img.darklights.store
+img.monderhouse.space
+img.responsive.pstatic.autos
+img.smartnords.site
+img.socialteams.store
+img.worksongo.store
 img8732g97.connect-signal.org
 imparcialpress.com
 imprimerie-agp.com
@@ -1355,6 +1362,7 @@ inty.cam
 invoice.msopsa.top
 io-dati.com
 iowagaragedoor.com
+ip-api.com
 ipnzrwww.join-call-facetime.com-ae.org
 ironbrave.online
 irthhm.scomusted-device-apple.com-info.io
@@ -1814,6 +1822,7 @@ me-relay.org
 meadow84.com
 meadowsantiques.com
 mediumblog.online
+meet.element.tw
 meeting.zm-me.co
 meetls.kozow.com
 members.com-ae.org
