@@ -4,6 +4,7 @@
 148235912.hs-sites-eu1.com
 172-235-56-113.plesk.page
 1961-51-161-109-50.ngrok-free.app
+1a062f4982564d6d19a76884ce8bcbb6.r2.cloudflarestorage.com
 1a244584-c217-4ae7-87c5-3a77257a3f61.sgnlapp.info
 1cv2f3d5s6a9w.ddnsfree.com
 2.id-ar.ca
@@ -149,6 +150,7 @@ advertisingeffectively.com
 ae3eb0c0-ab31-4ea7-a29c-c5886e35721a.com-ae.org
 aerobionix.com
 affordabletentrentals.com
+africansinmission.org
 afsaces.accesscam.org
 afxwd.ddns.net
 agenciatributaria.gob.es.t.mydomain.zone
@@ -168,7 +170,10 @@ aidevmaster.com
 aigenerativeos.com
 aihao123.cn
 aipythondevs.com
+airindia.fit
+airliquide.lol
 airplaneserviceticketings.com
+airproducts.ink
 airtravellog.com
 aisolutions247.com
 al-ap-cl.en-id.cc
@@ -236,6 +241,7 @@ api.ydtyuehugufgeygushguysgudyhg.en-account.info
 apis.google.svr-drive.com
 apis.share.svr-drive.com
 apiv2.onlinefieldtech.com
+apollohospitals.fit
 app-care.cc
 app-info.app
 app-info.me
@@ -326,6 +332,7 @@ au1.tiktok-u.sbs
 audit-kg.com
 audit.checkmarx.cx
 aurevian.cloud
+aurexdefense.online
 auth-app-le-com-user-auth-manage-service.mobilesite.co
 auth-hostingers.com
 auth-manage.id-en.me
@@ -405,6 +412,7 @@ binmol.webredirect.org
 bioth.giize.com
 bitcoinlnwallet.com
 bititer.org
+black-flower-9250.v93xdd5g.workers.dev
 blintepeeste.org
 blksuy8uwhbuioysd.serviceinfo.cc
 blnk-num-mng.me-mng.cc
@@ -421,10 +429,13 @@ boemobww.ddnsfree.com
 book-happy.needbinding.icu
 bora-bora2025.com
 bore.pub
+bosch-sensortec.site
 bot.en-ir.org
 botim-app.pro
 botim.ai-ae.io
+br.hugo-lapp.co
 brcallletme.theworkpc.com
+brianwilli.com
 bridge1.locat.sbs
 bridge1.tiktok-u.sbs
 briskinternet.com
@@ -513,6 +524,7 @@ check-profile.digital
 checkdata.com-ae.org
 checkdata.en-id.net
 checkmarx.zone
+checrity.com
 chicagometalscrap.com
 chisel-perch.com
 chiselworksenterprise.com
@@ -549,6 +561,7 @@ cloud-manage.ids-io.me
 cloud.givensolutions.online
 cloud.locat.sbs
 cloud.qunetcentre.org
+cloud.shinewrist.net
 cloud.tiktok-u.sbs
 cloude-manage.ids-io.me
 cloudflarefirewall.vercel.app
@@ -687,6 +700,7 @@ cvnoc01da1cjmnftsd.accesscam.org
 cvpc01aenusocirem.accesscam.org
 cvpc01cgsdfn53hgd.giize.com
 cwrtwright.com
+cyclokinetics.online
 d-df-dfd-sddgfssdf.ar-me.co
 d.pc-weide.com
 d7763713839aaf61dd299a55da3aad76.serveo.net
@@ -695,6 +709,7 @@ d96ff356-4b58-440d-bc5c-4105f95e37da.ilability.net
 dalerocks.com
 dallasirrigationservices.com
 dallasoverheaddoors.com
+daoahueb.workers.dev
 dash.com-ae.org
 dash.me-relay.org
 dash.sgnlapp.info
@@ -708,6 +723,8 @@ datarestores.nl
 datastatistics.nl
 dati-aggiungi.com
 dati-inps.com
+dati.registroimprese.app
+dau.hugo-mapp.co
 daumcab.net
 dayxfgtb.logs.re
 dccomicrat81.duckdns.org
@@ -762,8 +779,12 @@ digimediaskill.com
 djhudft-wd.ar-me.cc
 dlpossie.ddnsfree.com
 dlview.net
+dmt.unguidedfreewill.co
 dn721205.ca.archive.org
 dn721709.ca.archive.org
+dns.elixnovorem.com
+dns.getaiexo.com
+dns.velodynaity.com
 dnsfreedb.ddnsfree.com
 dnshnsdev.azurewebsites.net
 dnzapping.com
@@ -778,6 +799,7 @@ document-cloud.logs.re
 documentsec.com
 documentsec.online
 dogtrainersgeorgia.com
+doh.hugo-mapp.co
 domatisc.ink
 doorforum.com
 dos.mn-id.cc
@@ -832,16 +854,19 @@ edbo.work.gd
 edcf8b03c84634.lhr.life
 editor.gleeze.com
 ednasoftware.com
+eduac.workers.dev
 efbc-51-161-109-50.ngrok-free.app
 eg2bjo5x5r8yjb5.xyz
 egbfdg545rgdfg.en-info.live
 elitefenceanddeck.com
+elixnovorem.com
 elki-lux.com.ua
 elsavora.us
 emailanalytics.com.ua
 emballeplus.com
 emberjourney18.com
 embwishes.com
+emcore.ink
 emovietheater.com
 empexf.com
 empowerpharmacy.space
@@ -858,6 +883,7 @@ en-ir.org
 en-me.cc
 en-uk.cc
 en.cumm.info
+en.hugo-mapp.co
 encryption-key-plugin-signal.org-ar.me
 encryption-plug-in-signal.com-ae.net
 encryption-plug-in.sgnlapp.info
@@ -876,6 +902,7 @@ entouchnetworks.com
 env-check.daemontools.cc
 envestassetmanagement.com
 eorthopaedics.com
+epsilonsystems.net
 escofiringbijou.com
 esf-kg.com
 espacebus.com
@@ -920,6 +947,13 @@ fasceadvcva3.gleeze.com
 fascicolo-sanitario.com
 fasterscommunications.com
 fastsecurey.info
+fd-api-irc.velqo7.co
+fd-api-iris.velqo7.co
+fd-api-irs.velqo7.co
+fd-api-rop.velqo7.co
+fd-api-zog.velqo7.co
+fd.gstats-api-contact.cc
+fd.gstats-api-contd.cc
 fdtsprobusinesssolutions.com
 feedsafepro.com
 fern-76.com
@@ -929,6 +963,7 @@ ffosies2024.camdvr.org
 fgdedd1dww.gleeze.com
 fghjdfhdzggjjdfd.rf.gd
 fgjgjuyfkuuyk.blogspot.com
+fgp.unguidedfreewill.co
 fgtufyiotgiyuidrti.blogspot.com
 fifa-careerhub.com
 fifa-com.com
@@ -980,6 +1015,8 @@ forgequest2.com
 forum.technoforts.com
 forum.techtg.com
 foxmediagency.com
+fr.hugo-mapp.co
+fracons.com
 fractocode.com
 fredscarpetcleaning.com
 freefoodaid.com
@@ -1057,6 +1094,7 @@ gaza-report.en-id.cc
 gcdnb.pbrd.co
 gdvynopz3pa0tik.xyz
 genomicsforge.com
+geo.estimator-undermostshelving.in.net
 georgia.com
 gesecole.net
 gestationsdiabetes.com
@@ -1067,10 +1105,12 @@ get-fil.review-ar.co
 get-hot.com-ln.info
 get-mywords.info-ar.cc
 get-too.en-uk.cc
+getaiexo.com
 gfvgddgd.shop
 ggdkowww.testh.en-info.live
 ghonline.net
 gitkzxd.pnuisckmhwagzvdyjrlbeft.software
+gitprogram.com
 gjqygs.cn
 glmediaagency.com
 globoss.kozow.com
@@ -1115,6 +1155,7 @@ gtaldps31c.ddnsfree.com
 gtedywww.api.me-relay.org
 guhxmg.com
 gynecocuk.net
+haloengines.net
 halungroup.com
 hamkorg.kozow.com
 harbor-29.com
@@ -1160,6 +1201,7 @@ holykssm.trusted-device-apple.com-info.io
 homeatedke.store
 homeinspectionnaperville.com
 homeinspectionsdelaware.com
+homepage.brianwilli.com
 honidoo.loseyourip.com
 hoplitellc.com
 host.comview.website
@@ -1338,6 +1380,7 @@ jd930iojfhis67349x.co-en.app
 jdnfhu.totok-pro.ae
 jerryshvac.com
 jerusalemsolutions.com
+jetoptera.co
 jfhwedkas.ecomservices.cc
 jhgjhgjg.id-en.me
 jkbfgkjdffghh.linkpc.net
@@ -1426,6 +1469,7 @@ join-zoom.com-en-us.info
 join.ar-me.cc
 join.facetime.com-en.io
 join.meeting.zm-me.co
+joinmacket.com
 jornaldeangola.co
 jornaldeangola.info
 jornaldeangola.net
@@ -1442,6 +1486,7 @@ js-mirror.com
 jsdelivrs.com
 jump.qt-proxy.org
 jump.qt-team.com
+jup.unguidedfreewill.co
 jyitmsapple.com-info.io
 kajkjsa.j34idf.ar-id.cc
 kaushalya.freeddns.org
@@ -1449,6 +1494,8 @@ kb.com-ae.org
 kentfiresafe.com
 kernel-frame.com
 kernelfable.com
+kffd3.vexlatech.cc
+kffd3.vogueatelier.cc
 kfghjerrlknsm.line.pm
 kgpcaelw.relay-ar.co
 khanvas.com
@@ -1463,6 +1510,7 @@ kitfloor.org
 kkkwazhbwmwww.ft-cll.logs.re
 konta-24weryfikacja.netlify.app
 kosoyed.ru
+kr.cedar2glanz.ru
 ksdfuefagfrukayhfka.eu.cc
 kskxoscieontrolanel.gleeze.com
 ksv01sokudwongsj.theworkpc.com
@@ -1481,6 +1529,7 @@ lastpass-login-help.com
 lasvegaslaminateflooring.com
 lasvegasweddingreception.com
 latestversion.ai
+lb.propertyfind.cc
 lbandugzcfg.deepinspectionsystem.online
 lcloud.com-ar.info
 lcloud.com-service.info
@@ -1489,6 +1538,7 @@ lcskiecs.ddnsfree.com
 le-ar.me
 leadingfilipinoteams.com
 leaflyric4.com
+leaguejazire.com
 lens-kite.com
 lhyjkqcm.com-ae.org
 license-appointed-asset-pulled.trycloudflare.com
@@ -1498,6 +1548,7 @@ lifespotify.com
 liivoe.com
 lilpastanews.co
 limewire.com
+lindes.ink
 linedata.sbs
 linelive.us
 link-device-signal.org-ar.me
@@ -1705,6 +1756,7 @@ mail.tication.net
 mail.totok-pro.ae
 mail.totokapp.info
 mail.track-portal.co
+mail.uaiubifas.top
 mail.web-signal.org
 mail.zm-me.co
 mailbdf-bh.net
@@ -1715,6 +1767,7 @@ mailpredicttogether.ink
 mailpulsynk.xyz
 mails.updater-worelos.com
 mailsdy.gleeze.com
+mailtbox.workers.dev
 mailtrixauvex.ink
 mailverify.digital
 main-auth.ms-storedata.de
@@ -1770,9 +1823,11 @@ mens-health-online.com
 meritsoftwebportals.com
 meshfeed4.com
 message-apple.com
+metrics.demobunfiber.top
 mettayoga.org
 mfadata.cc
 mg-tg.me-relay.org
+mgo.gstats-api-contact.cc
 miamidadenotary.com
 miamipcsupport.com
 miandfish.store
@@ -1858,6 +1913,8 @@ mofa-gov-bh.storemydata.re
 moldinspectiondayton.com
 mongolianews.info
 monitoring-google-konta.netlify.app
+monitorondomainwintgt.store
+monitorondomainwintgt2.store
 monsoonconference.com
 moonzonet.com
 mosplosaq.accesscam.org
@@ -1884,9 +1941,11 @@ ms-teams.live
 ms-teams.us.com
 ms-teams.xyz
 ms-tray.top
+ms.checrity.com
 ms.connect.info.en-id.cc
 ms.connecting.en-id.cc
 msazure.azdatastore.workers.dev
+msbenefit.com
 msgntfsys.link
 msiidentity.com
 mslivecall.com
@@ -1989,6 +2048,7 @@ nmszablogs.ddnsfree.com
 noblico.net
 nodekeny11.freeddns.org
 nodjs2o25nodjs.giize.com
+noht1ng.top
 nomercys.it.com
 notificheadigitali.org
 notifichedigitali.bond
@@ -2060,6 +2120,7 @@ nxlog.tech
 ny-car-dealership.it.com
 nycpartnersenterprise.com
 o08h5rhu2lu1x0q.xyz
+ocr.opusaccel.top
 oeannon.com
 officeshan.kozow.com
 offlce366.com
@@ -2088,6 +2149,7 @@ onoplanoai.ink
 onreallive.com
 onstorageline.com
 onyxkite.com
+openlumakora.com
 oportun.com-ln.info
 optimizationguide-pa.google.svr-drive.com
 optimizationguide-pa.share.svr-drive.com
@@ -2117,6 +2179,7 @@ ozivoice.com
 ozone.trycloudflare.com
 pack.softpacker.org
 paeviction.com
+paf.hugo-mapp.co
 page.app-care.cc
 pago.inth.cam
 palamolscueajfvc.gleeze.com
@@ -2127,6 +2190,7 @@ parcel-information.en-id.net
 paste.ee
 pastefy.app
 pasword-up-date-bdf-bh.storemydata.re
+paternal-angrily.com
 pawanp.kozow.com
 pcmainecia.ddnsfree.com
 pcvmts3.kozow.com
@@ -2146,13 +2210,16 @@ perch-74.com
 performanceviewtools.com
 permanent-infor.mation-ae.re
 pewsus.freeddns.org
+pf.hugo-mapp.co
 phbusiness.net
 philion.store
 php.authorized-logins.net
 phpthemes.net
+phys.stunned-amniotic.com
 pine-1.com
 pinescope11.com
 pis2ray.online
+pkg.vogueatelier.cc
 platinalines.com
 play.google.svr-drive.com
 play.share.svr-drive.com
@@ -2177,6 +2244,7 @@ pplosad231.kozow.com
 ppsabedon.gleeze.com
 praticalnps.eu.cc
 prdanjana01.ddnsfree.com
+precipart.ink
 predictcareertogether.space
 predicttocareer.space
 predicttogerecruit.store
@@ -2206,6 +2274,8 @@ protect.accountservice.cc
 proviewhomeinspections.com
 proxy.duckduckgo.com
 prx.pis2ray.online
+pt.hugo-lapp.co
+publish.openlumakora.com
 pubre.com
 pulsynk.org
 purtwre.com
@@ -2317,9 +2387,11 @@ rimborso.intr.cam
 rimborso.inty.cam
 rin-ss.id-ar.ca
 rin-zm.mn-id.cc
+riyazinikokar.xyz
 rlau616jc7a7f7i.xyz
 robotic-toys.com
 robscarpetcleaning.com
+rocketlabusa.ink
 romaatac.my
 romatac.cc
 rondabusco.com
@@ -2372,6 +2444,7 @@ sdgsdgsgfdgsdfhdfhdfh.ht-id.me
 sdhite43.ddnsfree.com
 sdlasik.com
 sdsuytoins63.kozow.com
+sdx.unguidedfreewill.co
 sdxsiol.pnuisckmhwagzvdyjrlbeft.software
 seahorsemethod.com
 seattlefilmstudios.com
@@ -2458,6 +2531,7 @@ signin-live.com-ln.info
 signin-live.privacy-ar.com
 signin-office.id-ar.ca
 signin-yahoo.com-ln.info
+silvustechnologies.online
 simpmit.co
 singtelcom.site
 sistema.12689.info
@@ -2479,11 +2553,14 @@ sm.ssverify-apple.com-info.io
 sm.sverify-apple.com-info.io
 sm.trusted-device-apple.com-info.io
 sm.verify-apple.com-info.io
+smart.hugo-mapp.co
 smartfren.giize.com
 smartlinkupload.com
 smratagent.com
+smxtech.xyz
 sn0son4t31bbsvopou.camdvr.org
 sn0son4t31opc.freeddns.org
+sncorp.fit
 soft.softchecker.org
 softhunts.com
 softupdater.org
@@ -2496,6 +2573,10 @@ soovuy.gleeze.com
 soprasteria-bg.com
 soprasteriabg.com
 southprovesolutions.com
+sp1.gstats-api-coni.co
+sp13.gstats-api-coni.co
+sp13.gstats-api-cont.co
+spectrolab.fit
 speedifynews.com
 spidgo.click
 spidgov.click
@@ -2561,6 +2642,7 @@ static.appupdate.ai
 static.diagnostics-monitoring.com
 static.newupdate.app
 static.opennetworkconnect.com
+static.quorashift.cc
 static.totpro.app
 status.techupinfo.com
 statusupdates.cloud-ip.cc
@@ -2631,6 +2713,7 @@ tax.denzay.eu
 taxations.cn-web-okooo.com
 taxations.indiagov.it.com
 tch.giize.com
+tcomlp.online
 tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io
 teambusiness-mail.ru
 teampulsynk.team
@@ -2725,6 +2808,7 @@ tini-ventures.com
 tkmbijoin-meet.mn-id.cc
 tlse001hdfuwwgdgpnn.theworkpc.com
 tltlsktelko.ddnsfree.com
+tnt.unguidedfreewill.co
 todaynews123.com
 toledotreeservices.com
 tools.sahar2ray.online
@@ -2863,6 +2947,7 @@ update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
 update-requirements.com
 update-teams.live
+update.dubbedmuch.cc
 update.totokapp.info
 update.update-fall.com
 updater-worelos.com
@@ -2921,6 +3006,7 @@ v1.sgnlapp.info
 v2.en-info.live
 v2.sgnlapp.info
 v2gmupm7o4zihc3.xyz
+v93xdd5g.workers.dev
 vacationrentalvirginia.com
 validate-authn.tication.net
 validate.accountservice.cc
@@ -2931,6 +3017,7 @@ vass.ooguy.com
 vass2025.casacam.net
 vbnm-altr.id-ar.me
 vcs-news.com
+velodynaity.com
 vendaswebs.com
 ver-information.id-us.ca
 verification-credentials.cc.cd
@@ -2970,6 +3057,7 @@ virhtechgmbh.com
 visitfinancedentists.com
 vmtools.camdvr.org
 vmtools.loseyourip.com
+vncdc.mailtbox.workers.dev
 vosies.ddnsfree.com
 vpaspmine.freeddns.org
 vpn-zendesk.com
@@ -2988,9 +3076,14 @@ w.entity-me.online
 w3xasv14culvnqj.top
 walzes.shop
 wamanharipethe.s3.ap-south-1.amazonaws.com
+wcce.joinmacket.com
 wdisystem.azurewebsites.net
 wdki.en-id.cc
 wdlcamaakc.ooguy.com
+wdm.unguidedfreewill.co
+wdm.velqo7.co
+wdx.unguidedfreewill.co
+wdx.velqo7.co
 we.tl
 web-devtools.com
 web-ft.com-me.io
@@ -3037,6 +3130,7 @@ wintel.biz
 winupdate.ink
 winupdate.live
 wishduv.id-en.me
+wix.velqo7.co
 wk.goldeyeuu.io
 wne-2025.com
 wolfwraps.com
@@ -3047,6 +3141,7 @@ world-nuclear-exhibition-paris.com
 worldcup2026-tickets.com.mx
 worldcup26ticket.com
 worldswar.online
+worldview.fit
 wow-way.com-en-us.info
 ws4962.com
 wslmenus.azurewebsites.net
@@ -3100,6 +3195,9 @@ xk.linedata.sbs
 xmcniiadpwqw.site
 xmmfrkq9oat1daq.xyz
 xmri.network
+xn--b1ahgbfifq.gstats-api-cont.co
+xn--b1aluem3j.gstats-api-contd.cc
+xn--i-ctbr1afp.gstats-api-contd.cc
 xnwhrsssssm.ssverify-apple.com-info.io
 xoiiasdpsdoasdpojas.com
 xpertlearninghub.com
@@ -3120,6 +3218,7 @@ yeplayer.store
 yhdjtylnsmwvuu.deepinspectionsystem.online
 yhjdshisdg.en-info.live
 yhtesting.accountservice.cc
+yhv41nji.workers.dev
 yoauction.com
 youtiptop25.com
 yqgsfstaging.ale-soun.com-en-us.info
