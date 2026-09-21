@@ -157,6 +157,7 @@ agenciatributaria.gob.es.t.mydomain.zone
 agenzia-gov.com
 agenziadellentrate.com
 agenziadentrate.com
+agenziaentrate-gov.com
 agenziaentrate-gov.lestrani.de
 agenziaentrate-rw.com
 agenziaentrate.grillwestfrentes.com.ar
@@ -426,9 +427,11 @@ blueprintmesh.com
 bmail.entity-me.online
 bobbush.org
 boemobww.ddnsfree.com
+bonusvacanze-entipublici.com
 book-happy.needbinding.icu
 bora-bora2025.com
 bore.pub
+borertors92.anondns.net
 bosch-sensortec.site
 bot.en-ir.org
 botim-app.pro
@@ -572,6 +575,7 @@ cloudlanecdn.com
 clubline.cc
 clubprincess.click
 clubs-k.com
+cmbeveiligd.com
 cmevents.live
 cmevents.pro
 cmwwoods1.theworkpc.com
@@ -1200,6 +1204,7 @@ hm-en.cc
 hnk-capljina.com
 holykssm.trusted-device-apple.com-info.io
 homeatedke.store
+homehub.opik.net
 homeinspectionnaperville.com
 homeinspectionsdelaware.com
 homepage.brianwilli.com
@@ -1229,6 +1234,7 @@ i-mange.me-id.cc
 i-ua.cc.cd
 ia601001.us.archive.org
 ia803206.us.archive.org
+iampe-agenziaentrate-gov.store
 icaresupport-ap.en-me.cc
 icekancusjhea.ddnsgeek.com
 icloud-apple.com-info.io
@@ -2741,6 +2747,7 @@ teemslive.com
 teemslivo.com
 tehisdjsd.ar-info.co
 telcomn.giize.com
+tele-sync.opik.net
 teleapass.cfd
 teleapass.cyou
 telecom.webredirect.org
@@ -2921,6 +2928,7 @@ ue04web.us
 ue06web.us
 ueo4webzoom.us
 ufuzzssssm.verify-apple.com-info.io
+uhu7535b.s3.amazonaws.com
 uk02web-zoom.ar-me.io
 uk05live.us
 uk05web-zoom.com-cc.io
@@ -3180,6 +3188,7 @@ www.fifa.pink
 www.fifa.pub
 www.fifa2026p.com
 www.google.com-accounts.website
+www.iampe-agenziaentrate-gov.store
 www.icloud-cdn.net
 www.instagram.com-accounts.website
 www.mbahenendream.online
