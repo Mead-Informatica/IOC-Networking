@@ -44,6 +44,7 @@ http://23.27.201.160:8000/FLTLIB.dll
 http://23.27.201.160:8000/flt.bin
 http://23.27.201.160:8000/fltMC.exe
 http://23.27.201.160:8000/scr.mui
+http://3.88.162.79:36789/smtp
 http://38.181.52.147/authorize.txt
 http://38.54.32.244/Rar.exe
 http://39uchxifap4cvgzsuirom0szrrg.d65lre9sfqnlcv49317gcis6pyjsatzho.oast.pro
@@ -62,6 +63,7 @@ http://93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 http://CJiTDrpwnnA.MswINsoFTUPDLoad.deSigN/x111111
 http://GppiwoGwNdiakkDU.pnuiSckMHwaGzvDYjRLbeFt.SoFTWARe/111111?sub=s
 http://LsyPdQGXrEDfPx.MSwInSofTUpDloAd.dESign/111111?sub=s
+http://ams1.vultrobjects.com/desktop-va0r68j-ppmppnf12uyt4r5tifjdfh-
 http://aonexa.shop/candy/res/get-command.php
 http://appurl.io/fn3DwaK1bB
 http://azwsappdev.com/wdhmgpmihudkueq.zip
@@ -95,6 +97,7 @@ http://land.777bingos.xyz/88k4ez/group.html
 http://land.77bingos.com/88k4ez/group.html
 http://land.bingo777.now/88k4ez/group.html
 http://lee.6686ty.vip/listen/authorize.txt
+http://log.gitclone.org:45678/smtp
 http://mytinps.com/en/it/
 http://mytinps.com/en/it/INPS.html
 http://n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion
@@ -175,6 +178,16 @@ https://agenziadellentrate.com/session
 https://agenziadentrate.com/formdata
 https://agenziadentrate.com/it
 https://agenziadentrate.com/it/sow
+https://agenziaentrate-gov.com/
+https://agenziaentrate-gov.com/.well-known/shopify/fec/produce
+https://agenziaentrate-gov.com/.well-known/shopify/monorail/unstable/produce_batch
+https://agenziaentrate-gov.com/.well-known/shopify/monorail/v1/produce
+https://agenziaentrate-gov.com/api/collect
+https://agenziaentrate-gov.com/apps/formful
+https://agenziaentrate-gov.com/pages/bonus-vacanza
+https://agenziaentrate-gov.com/pages/caricamento-documenti
+https://agenziaentrate-gov.com/pages/selfie
+https://agenziaentrate-gov.com/pages/servizi
 https://agenziaentrate-gov.lestrani.de/contatta/it/
 https://agenziaentrate-rw.com/formdata
 https://agenziaentrate-rw.com/it
@@ -252,6 +265,8 @@ https://binancealliancesintro.com/group.html
 https://blocoinformativo.com/VDBE8_PUwOucy
 https://bonanza.davidsabido.com/wp-includes/images/ic/B00225511855210021-00551.zip
 https://bonanza.davidsabido.com/wp-includes/images/ic/i.php
+https://bonusvacanze-entipublici.com/
+https://bonusvacanze-entipublici.com/pages/bonus-vacanza
 https://brt.ddem.cc/qsw-it
 https://brt.phiamg.cc/track-it
 https://btrank.top/tuiliu/group.html
@@ -265,6 +280,8 @@ https://cgf.facturastbs.shop/a/08/150822/au
 https://championships-peoples-point-cassette.trycloudflare.com
 https://circoloesteri.elezioni.idnet.it/admin-election/riepilogo.php
 https://clubline.cc
+https://cmbeveiligd.com/~sampleco/api/ping
+https://cmbeveiligd.com/~sampleco/c/info
 https://commissps.help/it
 https://config-settings.kesug.com/sogfdshxncvsad
 https://config-settings.kesug.com/sogfdshxncvsad/npp.php
@@ -603,6 +620,8 @@ https://login.windows.net/common/oauth2/v2.0/authorize?client_id=7d980c52-31e5-4
 https://logindocumentsfile.spiritualraindrops.de/rTMCk
 https://m.pc6.com/test/tuiliu/group.html
 https://mica-donis.info/a/b/c/1.php
+https://micbucket.ams1.vultrobjects.com/MSCache.exe
+https://micbucket.ams1.vultrobjects.com/credentials.json
 https://ministry.sharedfilescorps.com/interior/$
 https://mkkku.com/static/analytics.html
 https://msiidentity.com
@@ -864,6 +883,7 @@ https://trenitaliia.cfd/BnIyRTmViC/api/input
 https://trenitaliia.cfd/iu
 https://trustselect.nl/skip/
 https://tt.grupobedfs.com/./gera_pdf.php
+https://uhu7535b.s3.amazonaws.com/5.html
 https://ui920fht4m1.s3.mx-central-1.amazonaws.com/
 https://ultd.digital/enel/Ozma
 https://ultd.digital/route
@@ -956,6 +976,8 @@ https://www.feedsafepro.com/wp-content/themes/inps/auth/wait.php
 https://www.figma.com/deck/49CEN9r7z246GQQ9rtNocg/AICS?node-id=1-42&t=1WexmUqwoqzIGY3l-1
 https://www.foxmediagency.com/download/qqa36sa0d6fq066?error=interaction_required&error_description=Session+information+is+not+sufficient+for+single-sign-on.&state=o1
 https://www.google.com/share.google?q=JAJEwVaaQq2tIPs56
+https://www.iampe-agenziaentrate-gov.store/1kRJ4NKmB-DihWRL-hqTNvK-5Y1zdLJ/index.php
+https://www.iampe-agenziaentrate-gov.store/index.html
 https://www.ist-nazionale-utenti2026.it/I/home.html
 https://www.join-facetime.ar-id.cc/Txk62i/?HT151059
 https://www.jsonkeeper.com/b/JNGUQ
