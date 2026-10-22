@@ -40,6 +40,7 @@ http://154.36.149.4:7788/pipen/listen.php
 http://172.86.113.102/Onedrive
 http://172.86.113.102/localencode
 http://185.238.189.41
+http://194.62.249.114/8001
 http://23.27.201.160:8000/FLTLIB.dll
 http://23.27.201.160:8000/flt.bin
 http://23.27.201.160:8000/fltMC.exe
@@ -98,6 +99,7 @@ http://land.77bingos.com/88k4ez/group.html
 http://land.bingo777.now/88k4ez/group.html
 http://lee.6686ty.vip/listen/authorize.txt
 http://log.gitclone.org:45678/smtp
+http://mfakuwait.online/owa/auth/logon.aspx?replaceCurrent=1
 http://mytinps.com/en/it/
 http://mytinps.com/en/it/INPS.html
 http://n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion
@@ -163,6 +165,7 @@ https://account-settings-shsvchx.wuaze.com/sidsixcnvxcucxv/ald.php
 https://account-settings-shsvchx.wuaze.com/uzdfbdhyzxjc
 https://account-settings-shsvchx.wuaze.com/uzdfbdhyzxjc/ald.php
 https://account.check-profile.digital/Verify
+https://accounts.natrlyi.com/
 https://acs-fasclo.eu.cc/
 https://adobe-acrobat.in/adobe_reader_setup.php?file=Adobe_Acrobat_Reader_Installation_Setup
 https://adobe-acrobat.in/ninevmc987.php?file=bncoeeav34564cvv94adfavc3354334dfsf
@@ -203,6 +206,10 @@ https://ai-scorepredict.com/static/analytics.html
 https://ajskbnrs.xn--jor0b302fdhgwnccw8g.com/gogo/list.html
 https://andrefelipedonascime1778799406970.2241107.meusitehostgator.com.br/GpazlLUWIJ_14_05_Meus_ArquivosDeTexto/03.txt
 https://anygg.liquorfight.com/88k4ez/group.html
+https://api.github.com/repos/PeakyBlindersTeam/myCode
+https://api.github.com/repos/PeakyBlindersTeam/myLic
+https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Inf.txt
+https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Lic.txt
 https://api.github.com/search/commits?q=OhNoWhatsGoingOnWithGitHub&sort=author-date&order=desc&per_page=50
 https://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 https://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
@@ -276,6 +283,7 @@ https://carementors.org/iampe.agenziaentrate.gov.it/sam/UI/Login/error.php
 https://carementors.org/iampe.agenziaentrate.gov.it/sam/UI/Login/get.php
 https://cariitas.it/?pixel=123456789&ref=true
 https://cctvv2.com/panel
+https://cdndrive.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view
 https://cgf.facturastbs.shop/a/08/150822/au
 https://championships-peoples-point-cassette.trycloudflare.com
 https://circoloesteri.elezioni.idnet.it/admin-election/riepilogo.php
@@ -321,6 +329,7 @@ https://docs.google.com/spreadsheets/d/1cB8jzFpQcixridoEz_eDvLnjCTx79gKFQSoFiuOE
 https://docs.google.com/spreadsheets/d/1cdSJvZ7tx6CPBuEa66uTVWmSD4zABnZOLjM87pRXkTE/edit
 https://docs.google.com/spreadsheets/d/1wgx4gj3-YGGAwmtr1DRu4n1QkznK2pYoKO6C4GTmquY/edit
 https://douncloud.site/sitedatastorageadvanced/?subid=%UUID%---%MACHINEGUID%
+https://drive-g.cloud/drive/file/d/15EMLDq9hpNXyZdu7RIZokPWLSdDC0y_0/view
 https://drive.google.com/file/d/12ffiBTWHm6GW8chJNIXuOeALPI82VnNs
 https://drive.google.com/file/d/1RDXHPZtCzOXn6GN7UidXPo4qqZOA_UGd
 https://drive.google.com/file/d/1XASle6sijkTrXEX_Elyk0C_R5uP33Oe-/view
@@ -370,6 +379,10 @@ https://flowfructoseagenda.s3.us-west-1.amazonaws.com/stratum
 https://fv-kita-wuhlheide.de/der-verein-lebt-weiter/
 https://fv-kita-wuhlheide.de/der-verein-lebt-weiter/index-.php
 https://fxrhcnfwxes90q.xyz/group.html
+https://g-prx.itugegape524.workers.dev/rate_limit
+https://g-prx.itugegape524.workers.dev/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Inf.txt
+https://g-prx.itugegape524.workers.dev/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Lic.txt
+https://g-prx.itugegape524.workers.dev/search/issues?q=20260825+repo:Microsoft/vscode+type:issue
 https://g8688808.com
 https://gateway.filen-1.net
 https://gateway.filen-2.net
@@ -379,6 +392,7 @@ https://gateway.filen-5.net
 https://gateway.filen-6.net
 https://gateway.filen.io
 https://gateway.filen.net
+https://gcc-sg.cloud/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
 https://ge.factu.it.com/GZSPEGIJ/YFSBNPQK
 https://ge.factu.it.com/g1/
 https://ge.factu.it.com/g1/ld1/
@@ -389,6 +403,7 @@ https://github.com/0x3ca54/arena-world
 https://github.com/DExplo1ted/CVE-2025-54106-POC
 https://github.com/DebugFrag/CVE-2025-12596-Exploit
 https://github.com/FixingPhantom/CVE-2025-10294
+https://github.com/GreenBeret0
 https://github.com/Hazelooks/CVE-2025-11499-Exploit
 https://github.com/InfiniGods-Tech/rei
 https://github.com/Mafin111/MafinREP111
@@ -424,6 +439,7 @@ https://github.com/moegameka/CVE-2025-59230
 https://github.com/nicocha30/ligolo-ng/releases/download/v0.8.2/ligolo-ng_agent_0.8.2_linux_amd64.tar.gz
 https://github.com/parikhpreyash4/systemd-network-helper-aa5c751f/releases/latest/download/gvfsd-network
 https://github.com/parth5805/iGuru-Task
+https://github.com/peakyblinders-tm
 https://github.com/rkama411/x402-kit
 https://github.com/rootreapers/CVE-2025-11499
 https://github.com/skyjum/x402-kit
@@ -447,6 +463,9 @@ https://gonzaguemontmorenc4.wixsite.com/v1/bulk/report-exposures
 https://gonzaguemontmorenc4.wixsite.com/website
 https://gonzaguemontmorenc4.wixsite.com/website/_api/wix-forms/v1/submit-form
 https://goodcryptocurrency.top/details/group.html
+https://google.centerhoti.com/
+https://google.morelessty.com
+https://google.natrlyi.com/
 https://googleplaydown.com/dUyFpz0Ai7Sp
 https://gooledives.z48.web.core.windows.net/%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8_%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%ac.html
 https://gooledives.z48.web.core.windows.net/election_2026.html
@@ -566,6 +585,7 @@ https://it-inpsmy.com/en/INPS.html
 https://it-inpsmy.com/en/address.html
 https://it-inpsmy.com/en/card.html
 https://jaxiemexyachritake.info/
+https://jmlh.morelessty.com/
 https://journeymatrixchecklist.s3.eu-west-2.amazonaws.com/universe
 https://js.jyzyps.com/js/nb.js
 https://js.jyzyps.com/js/vnnb.js
@@ -590,6 +610,7 @@ https://kimono-navi.net/old/seek/rank.cgi?mode=link&amp
 https://klarbatata.s3.us-east-1.amazonaws.com/klar.html
 https://klarna001552738.sviluppo.host/portal/
 https://kr.cedar2glanz.ru/jewel.js
+https://krgcloud.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view?ref=3yh3q5
 https://land.bingo777.now/88k4ez/group.html
 https://latesserasanit.com/support/billing/
 https://latesserasanit.com/support/billing/app/submit.php
@@ -597,6 +618,8 @@ https://latesserasanit.com/support/loading/check.php
 https://lddx3z2d72aa8i6.xyz/group.html
 https://littleurl.in/4i7bZ8
 https://littleurl.in/LKYDMS
+https://llzgov.top/IT
+https://llzgov.top/IT/?__eat=162ab887eeae55e3#/index
 https://lnpsverifica.eu.cc/io
 https://lnpsverifica.eu.cc/io/it/buste.php
 https://lnpsverifica.eu.cc/io/it/form1.php
@@ -623,11 +646,14 @@ https://login.microsoftonline.com/common/oauth2/v2.0/authorize?utm_source=portal
 https://login.windows.net/common/oauth2/v2.0/authorize?client_id=7d980c52-31e5-4554-9e20-b89c4617102f&response_type=code&scope=invalid&prompt=none&state=1
 https://logindocumentsfile.spiritualraindrops.de/rTMCk
 https://m.pc6.com/test/tuiliu/group.html
+https://mfakuwait.org/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
+https://mfakuwait.website/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
 https://mica-donis.info/a/b/c/1.php
 https://micbucket.ams1.vultrobjects.com/MSCache.exe
 https://micbucket.ams1.vultrobjects.com/credentials.json
 https://ministry.sharedfilescorps.com/interior/$
 https://mkkku.com/static/analytics.html
+https://moelcloud.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view?ref=3yh3q5
 https://msiidentity.com
 https://msiidentity.com/pw
 https://myainps.com/en/it/
@@ -712,6 +738,7 @@ https://pillarsesolution.com/i
 https://polizia.webflow.io/
 https://poliziadistato-cf5f7a.webflow.io/
 https://poliziadistato-eec9c0.webflow.io/
+https://poliziadistato.info/it
 https://portale-agenziaentrate.cc/m/
 https://portale-agenziaentrate.cc/m/e6ldd16v
 https://portale-agenziaentrate.cc/page/
@@ -838,6 +865,8 @@ https://spidgov.info/pay/
 https://spin7.icu/group.html
 https://srv243712.hoster-test.ru/VPpPSwkSBpQ
 https://srv245853.hoster-test.ru/b20vbWFpbC8/new/
+https://stark-meet.com/wp-content/uploads/2025/08/StarkMeet.zip
+https://starkmeet.com/download
 https://statusupdates.cloud-ip.cc/ITGOV/IT/
 https://statusupdates.cloud-ip.cc/ITGOV/IT/VB/
 https://statusupdates.cloud-ip.cc/ITGOV/IT/send1.php
@@ -940,6 +969,8 @@ https://webmail-unibas.weebly.com/ajax/apps/formSubmitAjax.php
 https://webmailedtfw.weebly.com/
 https://webmailedtfw.weebly.com/ajax/apps/formSubmitAjax.php
 https://windowscreenrepairnearme.com/command
+https://wiving.online/agenziaentrateriscossione.gov.it/
+https://wiving.online/agenziaentrateriscossione.gov.it/get.php
 https://wivoumea.ru/HAPApOYtrk1Zzs0iF6mk@/$
 https://workflow-rest-wars-cargo.trycloudflare.com/file/Fac_2026_1464249921.zip
 https://ws.ztts88.cyou/file/cg.exe
