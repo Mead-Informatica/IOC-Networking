@@ -52,6 +52,7 @@ http://38.181.52.147/authorize.txt
 http://38.54.32.244/Rar.exe
 http://39uchxifap4cvgzsuirom0szrrg.d65lre9sfqnlcv49317gcis6pyjsatzho.oast.pro
 http://45.194.17.133/authorize.txt
+http://45.194.90.57:38472/.sys_update
 http://83.138.53.110/dl/p.exe
 http://83.138.53.110:80/service/save.php
 http://83.229.126.195:8081/config.json
@@ -62,6 +63,8 @@ http://85.137.53.71:8080/api/v1/file-content/
 http://85.137.53.71:8080/api/v1/file-result
 http://85.209.156.3:8080/wagent.exe
 http://85.209.156.3:8082/wagent.exe
+http://85.215.73.250:8080/bot-linux-amd64
+http://85.215.73.250:8080/wget.sh
 http://92.118.112.100/nfs
 http://93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 http://CJiTDrpwnnA.MswINsoFTUPDLoad.deSigN/x111111
@@ -95,6 +98,7 @@ http://hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun/`whoami
 http://iis.01nmwe.xyz/cs/123.php
 http://ingov.myartsonline.com/hpc5985.php?key=xvnd54&info=Hello
 http://inpso.cfd/IT
+http://ip-api.com/json/
 http://lBaNDUgZCFG.deepInspectiOnSYSTEM.oNLiNE/X111111
 http://lLalWpIJnjskClwY.PnUiscKMhWaGzVdyJRlBEfT.SofTWaRe/111111?sub=s
 http://land.777bingos.xyz/88k4ez/group.html
@@ -214,6 +218,7 @@ https://api.github.com/repos/PeakyBlindersTeam/myLic
 https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Inf.txt
 https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Lic.txt
 https://api.github.com/search/commits?q=OhNoWhatsGoingOnWithGitHub&sort=author-date&order=desc&per_page=50
+https://api.ipify.org/
 https://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 https://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
 https://api.npoint.io/03f98fa639fa37675526
@@ -229,6 +234,7 @@ https://api.npoint.io/cb0f9d0d03f50a5e1ebe
 https://api.npoint.io/e6a6bfb97a294115677d
 https://api.npoint.io/f4be0f7713a6fcdaac8b
 https://api.npoint.io/f6dd89c1dd59234873cb
+https://api.telegram.org/bot
 https://api.telegram.org/file/bot8331125434:AAEsxWq7_xZWUjN0IFLO3fTU54ZCBnZS4YI/documents/file_22526.apk
 https://api.telegram.org/file/bot8978201863:AAG4vnsJVOAbABfF6dXhhM8YJ14pd5LaxVw/documents/file_1389.apk
 https://app.eduac.workers.dev/Service
@@ -722,6 +728,7 @@ https://npm-cache.com:443/router
 https://nwphotoblog.com
 https://online.zp.ua/wp-content/uploads/Tools/EditorToolsPdf.zip
 https://openclawcli.vercel.app/
+https://openrouter.ai/api/v1/chat/completions
 https://ose.668ddf.cc/tuiliu/group.html
 https://osec2.668ddf.cc/tuiliu/group.html
 https://osy4u8pmu.s3.ap-southeast-1.amazonaws.com/
@@ -826,6 +833,7 @@ https://rimborso.inty.cam/TzfvloMAFK/api/input
 https://rimborso.inty.cam/it
 https://rimborso.inty.cam/wf167_it/footer.html
 https://rimborso.inty.cam/wf167_it/header.html
+https://rolimons.com
 https://romaatac.my/pay
 https://romatac.cc/pay
 https://ruzeda.com/blogs/drafts/publish/schedule/seosso/login/mfa/verify/token/refresh/ips/blocklist/whitelist
