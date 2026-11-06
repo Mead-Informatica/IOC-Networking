@@ -190,6 +190,7 @@ accountservice.cc
 aceofspadesmanagement.com
 ach-uz.com
 acs-fasclo.eu.cc
+ad.starx-net.com
 adaadada.top
 adenuncia.com
 adimagemarketing.com
@@ -209,6 +210,7 @@ adobe-acrobat.in
 adobecloud.site
 adobereader-update.in
 adobereader-upgrade.in
+adsprism-stat.com
 advertisingeffectively.com
 ae3eb0c0-ab31-4ea7-a29c-c5886e35721a.com-ae.org
 aerobionix.com
@@ -268,6 +270,7 @@ alumni-columbia-edu-val.idate.me
 amazonfiso.com
 amblecote.net
 amedatur.com
+america250.holiday
 analyticemailmeter.com
 anbusivam.com
 ancisesic.accesscam.org
@@ -470,6 +473,7 @@ bdisk.entity-me.online
 beachjiujitsu.com
 bel1.locat.sbs
 bel1.tiktok-u.sbs
+beliefdesk.xyz
 belldredgingpump.com
 best-seller.lavanille.buzz
 bestbuydomain.com
@@ -499,6 +503,7 @@ blocoinformativo.com
 blog.98aiblog.com
 blog.com-ae.org
 blog.com-info.io
+blog.wangmengfun.top
 bloopencil.net
 bltki.en-id.cc
 bluelagoonaenterprise.com
@@ -727,6 +732,7 @@ come-signin.quest
 comesignt.website
 comestore.site
 comisignin.online
+companyharbor.xyz
 comusted-device-apple.com-info.io
 comx-view.store
 con-ft-cll.me-info.cc
@@ -881,6 +887,7 @@ dev.me-relay.org
 dev.regularsports.org
 dev.relay-ar.co
 dev.sgnlapp.info
+dev.soft-png-cdn.com
 development-flowiseai.me-ar.io
 device-update.imtok.io
 devlyrics.com
@@ -986,6 +993,7 @@ edbo.publicvm.com
 edbo.work.gd
 edcf8b03c84634.lhr.life
 edcv89ik.onlinewebshop.net
+edge-ord.clouds-stacks.com
 editor.gleeze.com
 ednasoftware.com
 eduac.workers.dev
@@ -1496,6 +1504,7 @@ imanage.logs.re
 imange.com-ar.nl
 imap.sunmoon.website
 img.darklights.store
+img.fusfun.top
 img.monderhouse.space
 img.responsive.pstatic.autos
 img.smartnords.site
@@ -1517,6 +1526,7 @@ informacao24.com
 infuture.pro
 ingov.myartsonline.com
 inka.cam
+inkact.xyz
 inmsed.com
 innlive.in
 inps-im.com
@@ -2285,6 +2295,7 @@ newupdate.app
 neww.com-auth.cc
 neww.com-ln.info
 neww.me-ar.io
+nginxmysql.com
 nhcpowtzdscpanel.logs.re
 nhvkncpcalendars.mailbdf-bh.net
 nicrosofm.com
@@ -2448,6 +2459,7 @@ paeviction.com
 paf.hugo-mapp.co
 page.app-care.cc
 pago.inth.cam
+pakdw.orchidheaven.online
 palamolscueajfvc.gleeze.com
 panel.creepy.ltd
 papermoonweddings.com
@@ -2831,6 +2843,7 @@ signal.org-ar.me
 signal.org-status.nl
 signaler-pa.google.svr-drive.com
 signaler-pa.share.svr-drive.com
+signalpane.cfd
 signin-account.co-en.app
 signin-account.review-ar.co
 signin-ap.privacy-ar.com
@@ -2879,6 +2892,7 @@ sncorp.fit
 soft.softchecker.org
 softhunts.com
 softupdater.org
+sogou-cdn.com
 sohbetturke.com
 solarrayes.com
 soliq-uz.com
@@ -2902,6 +2916,7 @@ spm-cdn-assets-dist-2026.s3.us-east-2.amazonaws.com
 sportsstories.gr
 spotlessridesdetailing.com
 sql-updater-service.com
+sqlserver-sqlite.com
 sreachagent.com
 srlaptop.com
 srv1.srv648.co-en.app
@@ -2959,6 +2974,7 @@ starkmeet.com
 starvpn.pis2ray.online
 static.appupdate.ai
 static.diagnostics-monitoring.com
+static.flux-telemetry.com
 static.newupdate.app
 static.opennetworkconnect.com
 static.quorashift.cc
@@ -3125,6 +3141,7 @@ tgyoewww.rev-auth-num.en-info.live
 thbio.kozow.com
 thecamco.net
 theguardian.ar-me.cc
+theowo.club
 theprmummy.com
 thetacticstore.com
 thevenueapartments.com
@@ -3295,6 +3312,7 @@ update-requirements.com
 update-teams.live
 update.96html.com
 update.dubbedmuch.cc
+update.mssproxy.net
 update.totokapp.info
 update.update-fall.com
 updatepopcorntime.xyz
@@ -3520,6 +3538,7 @@ wintel.biz
 winupdate.ink
 winupdate.live
 wishduv.id-en.me
+wishgrove.cfd
 wiving.online
 wix.velqo7.co
 wizardexpensive.com
@@ -3559,6 +3578,7 @@ www.alitagotest.cf
 www.archivetj.com
 www.chr0mail.com
 www.cktime.ooguy.com
+www.ddduuuppp.com
 www.dns361.tk
 www.drivelivelime.com
 www.facebook.com-accounts.website
